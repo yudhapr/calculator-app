@@ -7,13 +7,14 @@ class Calculator
 	
 	Console.WriteLine("\nTekan sembarang untuk close");
 	Console.Readkey();
-	//tugas 1
+	//tugas 4
 	}
 	
 		static int Penambahan(int a, int b)
 		{
 			return a + b;
 		}
+		//Tugas 2
 		
 		static int Pengurangan(int a, int b)
 		{
