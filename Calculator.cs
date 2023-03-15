@@ -7,6 +7,7 @@ class Calculator
 	
 	Console.WriteLine("\nTekan sembarang untuk close");
 	Console.Readkey();
+	//tugas 1
 	}
 	
 		static int Penambahan(int a, int b)
